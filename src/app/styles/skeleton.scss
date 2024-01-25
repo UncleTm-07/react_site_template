@@ -1,0 +1,9 @@
+.skeleton {
+  background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+  background-size: 400% 100%;
+  animation: skeletonAnimation 4s linear infinite;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
